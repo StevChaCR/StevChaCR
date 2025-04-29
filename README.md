@@ -39,7 +39,6 @@ Hi there! I'm Steven — passionate about programming, biotechnology, and the po
 
 - 🌐https://www.linkedin.com/in/stevenchavesg/
 - ✉️ stevenacg1998@gmail.com  
-- 🌐 [valordeltiempo.com](https://valordeltiempo.com)  
 - 💼 Actively seeking opportunities in web development and tech-bio projects  
 
 ---
