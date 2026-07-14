@@ -1,4 +1,4 @@
-# 👨‍💻 Steven Alonso Chaves Gaia Jr.
+# 👨‍💻 Steven Alonso Chaves Gaia
 
 ### Front-End Developer | Bioengineering Student | CCNA Administrator
 
